@@ -4,7 +4,7 @@ comcast & netflix -- netflix did
 Fast lane -- issues
 
 
-USER should control  content prioritization
+USER should control content prioritization
 
 
 comcast throttles bit torrent
@@ -27,5 +27,11 @@ common carriers can't discreminate between the things they carry.
 
 2005 ISPS ruled "information service"
 
+verizon v. fcc: fcc had no authority to enforce NN rules as long as service providers were not identified as "common carriers"
 
 2015 ISPS ruled "common carriers"
+
+"This is no more a plan to regulate the internet than the First Amendment is a plan to regulate free speech. They both stand for the same concept." - Tom Wheeler
+
+"Using the same logic that the NPRM uses, one could suggest that the FCC’s classification of cable modem service as an information service in 2002 resulted in an even more precipitous drop in broadband provider investment." - Commissioner Clyburn
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-17-60A1.pdf
