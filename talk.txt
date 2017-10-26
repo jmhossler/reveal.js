@@ -1,12 +1,104 @@
 Slide 1:
-Hello, my name is John Hossler. I wanted to put together this talk in order to spread awareness of a topic that I care about very much. In this talk, I hope I I give someone new information or a new perspective on the topic of Net Neutrality.
+Hello, my name is John Hossler. I wanted to put together this talk in order
+to spread awareness of a topic that I care about very much. In this talk, I
+hope I I give someone new information or a new perspective on the topic of
+Net Neutrality.
 Slide 2:
-Some of you might be wondering what this topic <b>even is</b>. Well, the key idea is that all data must be treated the same by both the government and Internet Service Providers (ISPs). This idea has been broken down into three smaller ideas that protect the general idea: No blocking, No throttling, and No Paid Prioritization.
+Some of you might be wondering what this topic <b>even is</b>. Well, the
+key idea is that all data must be treated the same by both the government
+and Internet Service Providers (ISPs). This idea has been broken down into
+three smaller ideas that protect the general idea: No blocking, No
+throttling, and No Paid Prioritization.
 Down 1:
-No blocking is what prohibits the blocking of legal data and the connection of non-harmful devices. This means I can buy my own modem made by a third party and use it to connect to my ISP. It also means I can use Peer to peer services, such as bittorrent, to spread or get legal content. This protects both the right to send and receive such traffic.
+No blocking is what prohibits the blocking of legal data and the connection
+of non-harmful devices. This means I can buy my own modem made by a third
+party and use it to connect to my ISP. It also means I can use Peer to peer
+services, such as bittorrent, to spread or get legal content. This protects
+both the right to send and receive such traffic.
 Down 2:
-No throttling is definitely related to no blocking, but it's harder, as a consumer, to understand what is happening. If I try to access a service online and it's really slow and hard to use, my first instinct is to assume fault with the service and then move on to another service. The dangerous part about this is that it allows ISPs to artificially move the market towards services that directly make them more money. This is extremely anti-competitive behavior, and I think the only damage done is to the consumer; however, I do see a legitimate purpose of throttling -- it can be used to regulate network traffic and minimize bandwidth congestion, which benefits the consumer.
+No throttling is definitely related to no blocking, but it's harder, as a
+consumer, to understand what is happening. If I try to access a service
+online and it's really slow and hard to use, my first instinct is to assume
+fault with the service and then move on to another service. The dangerous
+part about this is that it allows ISPs to artificially move the market
+towards services that directly make them more money. This is extremely
+anti-competitive behavior, and I think the only damage done is to the
+consumer; however, I do see a legitimate purpose of throttling -- it can be
+used to regulate network traffic and minimize bandwidth congestion, which
+benefits the consumer.
 Down 3:
-No Paid Prioritization is where I found the most conflict with my personal opinion. The idea behind it is that broadband providers may favor some traffic over other traffic in exchange for 'consideration' (for example, money). This blocks fastlanes created by ISPs. The key to this point is keeping it context with the central idea of Net Neutrality: all data must be treated the same by .. ISPs. I am completely in favor of me, as a consumer, being able to prioritize youtube traffic while I'm watching youtube, and later prioritizing Netflix or some music streaming service. The issue I have with paid prioritization is ISPs choosing what is prioritized for me, and is why it is mentioned. All three of these ideas are closely related to each other: Prioritization necessitates throttling of some kind and throttling is softer but less transparent form of blocking. This is why I do not think you can partially support Net Neutrality.
+No Paid Prioritization is where I found the most conflict with my personal
+opinion. The idea behind it is that broadband providers may favor some
+traffic over other traffic in exchange for 'consideration' (for example,
+money). This blocks fastlanes created by ISPs. The key to this point is
+keeping it context with the central idea of Net Neutrality: all data must
+be treated the same by .. ISPs. I am completely in favor of me, as a
+consumer, being able to prioritize youtube traffic while I'm watching
+youtube, and later prioritizing Netflix or some music streaming service.
+The issue I have with paid prioritization is ISPs choosing what is
+prioritized for me, and is why it is mentioned. All three of these ideas
+are closely related to each other: Prioritization necessitates throttling of
+some kind and throttling is softer but less transparent form of blocking.
+This is why I do not think you can partially support Net Neutrality.
 Slide 3:
-Another key element of this discussion is understanding the role of Title II in protecting Net Neutrality.
+Another key element of this discussion is understanding the role of Title II
+in protecting Net Neutrality. To do this, I think going over a little bit of
+history is useful. In 1996, the Telecommunications Act was made, which was
+made with the intent of allowing anyone to enter into the communications
+business. In 1998, Digital Millennium Copyright Act protected ISPs from
+liability for the data that travels along their infrastructure. In 2002,
+the FCC ruled ISPs as "information services". Then, in 2004, the FCC makes
+the Open Internet Order to protect ideas of Net Neutrality on the internet.
+Down 1:
+Well, what went wrong? We have protection for Net Neutrality ideas at this
+point, but they hadn't been tested yet. In 2010, the courts ruled that the
+FCC didn't have a sufficient statutory basis to regulate the behavior of
+ISPs, and this was after Comcast throttled bittorrent. One of the ideas of
+Net Neutrality was infringed upon, and the FCC couldn't do anything.
+Spoiler: this isn't the only time. In 2014, Verizion sues the FCC for the
+Open Internet Order (redone in 2010 after the debacle with Comcast) and
+wins. The court decided that the FCC had no authority to enforce the Open
+Internet Order rules as long as ISPs were not identified as "common
+carriers". Around this time, Verizon slows down traffic to Netflix for their
+customers until Netflix agrees to a paid-peering plan with them. At this
+point, it seems like Net Neutrality has lost. ISPs can do what they want and
+control the online market and slow down services without any way for the
+government to stop them.
+Down 2:
+This is why, in 2015, the FCC classified ISPs as common carriers under Title
+II of the Communications Act of 1934. Now, the FCC can stop and penalize the
+ISPs for violating Net Neutrality ideas laid out in 2004. This means no
+blocking, no throttling, and no paid prioritization. Finally.
+Down 3:
+Where does Adtran Stand on the issue? I was unaware until a question from a
+co-op at a lunch and learn, but from reading Adtran's comments on the FCC's
+website, I found out that they do support _some_ ideas of Net Neutrality,
+like No Blocking and No Throttling, but disagree with No Paid
+Prioritization. Adtran also supports reclassifying ISPs as information
+services so that the FCC cannot regulate the ISPs. I think I've provided
+enough information above as to why I think that is a bad idea; however, I
+think looking at how this affects our customers is a good place to start
+for finding out more reasons why Adtran might take this stance.
+Slide 4:
+How does this affect our customers here at adtran? The obvious answer is
+that our customers are ISPs, so that means they have this new legislation
+that allows them to be regulated as common carriers. The negatives I've
+heard from this is that regulation slows investment, innovation, and growth.
+With the Amazons of the world entering into new markets and changing the
+game, this scares our customers and makes them worried about their ability
+to be stay competitive.
+Slide 5:
+If this affects our customers, then the question of how it affects us is a
+serious one. I was told that we lost out on a multi-million dollar deal
+with a customer when the open internet order of 2015 went through. Our stock
+plummeted from today's levels to $14.65/share. From what I understand, there
+was a definite decrease in investment that hurt Adtran, but it's not
+unexpected. It might be easy to zoom in on one effect of the 2015 order and
+say it was bad, but since then we've seen pretty continuous growth, and I
+think that makes sense. The fact we lost out on a deal with a customer just
+tells me that the customer had to restructure, and they have. They are
+growing, we are growing, investment in infrastructure has risen across the board, and I see adtran focusing on things like innovation. The negatives
+for our customers, to me, only seem like net neutrality policies and the
+regulation that comes with that. I remain unconvinced that the open
+internet order of 2015 had any of the long term negative economic effects
+that I would see as reasons to abandon it.

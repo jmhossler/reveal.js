@@ -20,6 +20,13 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+    <script>
+  var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+      link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+          document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
 	</head>
 	<body>
 		<div class="reveal">
@@ -59,20 +66,45 @@
           <section>
             <h2>How does Net Neutrality relate to Title II?</h2>
             <ul>
-              <li class="fragment fade-up">Verizon v. FCC 2014: FCC had no authority to enforce the FCC Open Internet Order rules <i>as long as service providers were not identified as "common carriers"</i></li>
-              <li class="fragment fade-up">Comcast v. FCC: Comcast throttles P2P service Bittorrent</li>
+              <li class="fragment fade-up">Telecommunications Act of 1996</li>
+              <li class="fragment fade-up">DMCA of 1998</li>
+              <li class="fragment fade-up">ISPs ruled "information service" in 2002</li>
+              <li class="fragment fade-up">FCC makes Open Internet Order in 2004</li>
+            </ul>
+          </section>
+          <section>
+            <h3>What Went Wrong?</h3>
+            <ul>
+              <li class="fragment fade-up">Comcast v. FCC 2010: Comcast throttles P2P service, Bittorrent, and court did not find a sufficient statutory basis for the FCCs mandate to regulate the behavior of ISPs</li>
+              <li class="fragment fade-up">Verizon v. FCC 2014: FCC had no authority to enforce the FCC Open Internet Order rules <i>as long as service provders were not identified as "common carriers"</i></li>
               <li class="fragment fade-up"><a href="http://time.com/80192/netflix-verizon-paid-peering-agreement/">Verizon bullies Netflix into paid-peering deal</a></li>
             </ul>
           </section>
           <section>
-            <p>Title II provides legal protection for consumers</p>
+              <h3>Open Internet Order of 2015 classifies ISPs as common carriers under Title II</h3>
+              <p class="fragment fade-up">(finally)</p>
+          </section>
+          <section>
+            <h3>Where does Adtran stand?</h3>
+            <p class="fragment fade-in">From Adtran's FCC comments relating to Title II reclassification, Adtran:</p>
+            <ul class="fragment fade-in">
+              <li>agrees with No Blocking</li>
+              <li>agrees with No Throttling</li>
+              <li>disagress with No Paid Prioritization</li>
+              <li>supports reclassifying ISPs as information services</li>
+            </ul>
           </section>
         </section>
         <section>
           <h2>Effects on Adtran Customers</h2>
+          <p class="fragment fade-up">Regulation <i>slows things down</i>, such as innonvation, investment, and growth. None of these are good in an ever growing market</p>
         </section>
         <section>
           <h2>Effects on Adtran</h2>
+          <ul>
+            <li class="fragment fade-down">Lost a multi-million dollar deal with At\&t</li>
+            <li class="fragment fade-down">Our stock plummeted from today's levels to $14.65/share</li>
+          </ul>
         </section>
         <section>
           <h1>Want to have a conversation?</h1>
