@@ -17,18 +17,19 @@ services, such as bittorrent, to spread or get legal content. This protects
 both the right to send and receive such traffic.
 Down 2:
 No throttling is definitely related to no blocking, but it's harder, as a
-consumer, to understand what is happening. If I try to access a service
-online and it's really slow and hard to use, my first instinct is to assume
-fault with the service and then move on to another service. The dangerous
-part about this is that it allows ISPs to artificially move the market
-towards services that directly make them more money. This is extremely
-anti-competitive behavior, and I think the only damage done is to the
-consumer; however, I do see a legitimate purpose of throttling -- it can be
+consumer, to understand what is happening. If a consumer tries to access a
+service online and it's really slow and hard to use, the first instinct is
+to assume fault with the service and then move on to another service.
+The dangerous part about this is that it allows ISPs to artificially move
+the market towards services that directly make them more money. This is
+extremely anti-competitive behavior, and only the ISP wins;
+however, there could be a legitimate usage for throttling -- it can be
 used to regulate network traffic and minimize bandwidth congestion, which
 benefits the consumer.
 Down 3:
-No Paid Prioritization is where I found the most conflict with my personal
-opinion. The idea behind it is that broadband providers may not favor some
+No Paid Prioritization is where I found the most internal conflict and where
+I see benefit to slackening the rules the FCC currently has in place.
+The idea behind it is that broadband providers may not favor some
 traffic over other traffic in exchange for 'consideration' (for example,
 money). This blocks fastlanes created by ISPs. The key to this point is
 keeping it context with the central idea of Net Neutrality: all data must
@@ -51,12 +52,13 @@ the FCC ruled ISPs as "information services". Then, in 2004, the FCC makes
 the Open Internet Order to protect ideas of Net Neutrality on the internet.
 Down 1:
 Well, what went wrong? With the Open Internet Order, it seems like there is
-protection for Net Neutrality ideas, but these rules been tested yet.
+protection for Net Neutrality ideas, but these rules hadn't been tested yet.
+Down 2:
 In 2010, after Comcast throttled the Peer-to-peer service BitTorrent,
 the courts ruled that the FCC didn't have a sufficient statutory basis to
 regulate the behavior of ISPs. One of the ideas of
 Net Neutrality was infringed upon, and the FCC couldn't do anything.
-Spoiler: this isn't the only time. In 2014, Verizion sues the FCC for the
+Spoiler: this isn't the only time. In 2014, Verizon sues the FCC for the
 Open Internet Order (redone in 2010 after the debacle with Comcast) and
 wins. The court decided that the FCC had no authority to enforce the Open
 Internet Order rules as long as ISPs were not identified as "common
@@ -65,7 +67,7 @@ customers until Netflix agrees to a paid-peering plan with them. At this
 point, it seems like Net Neutrality has lost. ISPs can do what they want and
 control the online market and slow down services without any way for the
 government to stop them.
-Down 2:
+Down 3:
 This is why, in 2015, the FCC classified ISPs as common carriers under Title
 II of the Communications Act of 1934. Now, the FCC can stop and penalize the
 ISPs for violating Net Neutrality ideas laid out in 2004. This means no
@@ -77,17 +79,19 @@ the ISPs able to do these things unless they were things the consumers
 wanted? The issue with that is the fact that most people don't have a choice
 when it comes to what service to get. With people that want 10 Mbps minimum,
 36% don't have more than 2 choices, and 10% only have one option as of 2015.
-These statistics only get worse as speed goes up. With apartment complexs
-making deals with ISPs, even here in huntsville, I only have one 'choice',
-and having internet isn't an option for me. The market doesn't protect me.
-Down 3:
+These statistics only get worse as speed goes up. With apartment complexes
+making deals with ISPs, even here in huntsville, I only have one 'choice' in
+ISP, and having internet isn't an option for me. The market doesn't protect me.
+This is where the classification of ISPs as common carriers can do what
+the market is currently unable to do.
+Down 4:
 Where does Adtran Stand on the issue? I was unaware until a question from a
 co-op at a lunch and learn, but from reading Adtran's comments on the FCC's
 website, I found out that they do support _some_ ideas of Net Neutrality,
 like No Blocking and No Throttling, but disagree with No Paid
 Prioritization. Adtran also supports reclassifying ISPs as information
 services so that the FCC cannot regulate the ISPs. I think I've provided
-enough information above as to why I think that is a bad idea; however, I
+enough information above as to why that is a bad idea; however, I
 think looking at how this affects our customers is a good place to start
 for finding out more reasons why Adtran might take this stance.
 Slide 4:
@@ -95,30 +99,30 @@ How does this affect our customers here at adtran? The obvious answer is
 that our customers are ISPs, so that means they have this new legislation
 that allows them to be regulated as common carriers. The negatives I've
 heard from this is that regulation slows investment, innovation, and growth.
-With the Amazons of the world entering into new markets and changing the
-game, this scares our customers and makes them worried about their ability
-to be stay competitive. From what I've seen though, this doesn't match
+With the Amazons of the world entering into new markets (as well as our
+homes), this scares our customers and makes them worried about their ability
+to be stay competitive.
+Down 1:
+From what I've seen though, this doesn't match
 what these companies have been telling their investors. Revenue has
 continued to increase, investment has grown, and while I don't know how
-to measure how innovation was affected, I am doubtful it has been
-negatively affected since the other two concerns can't actually be
-verified.
+to measure how innovation was affected, I am doubtful of that claim
+since the other two concerns can't actually be verified.
 Slide 5:
 If this affects our customers, then the question of how it affects us is a
 serious one. I was told that we lost out on a multi-million dollar deal
 with a customer when the open internet order of 2015 went through. Our stock
 plummeted from today's levels to $14.65/share. From what I understand, there
-was a definite decrease in investment that hurt Adtran, but it's not
-unexpected. It might be easy to zoom in on one effect of the 2015 order and
-say it was bad, but since then we've seen pretty continuous growth, and I
-think that makes sense. The fact we lost out on a deal with a customer just
-tells me that the customer had to restructure, and they have. They are
-growing, we are growing, and investment is growing. The negatives for our
-customers, to me, only seem like net neutrality policies and the regulation
-that comes with that. I remain unconvinced that the open internet order of
-2015 had any of the long term negative economic effects that I would see as
-reasons to abandon it. I am open to the idea that the rules, as it stand,
-need modification, but that doesn't mean we throw out all the rules.
+was a definite decrease in investment that hurt Adtran. It might be easy to
+zoom in on one bad thing in 2015 and blame it on the FCC to say the
+decision was bad, but since then we've seen pretty continuous growth. Our
+customers are growing, we are growing, and investment is growing. The
+negatives for our customers, to me, only seem like net neutrality policies
+and the regulation that comes with that. I remain unconvinced that the open
+internet order of 2015 had any of the long term negative economic effects
+that I would see as reasons to abandon it. I am open to the idea that the
+rules, as it stand, need modification, but that doesn't mean we throw out
+all the rules.
 Down 1:
 So far, I am dissatisfied for our reasoning for supporting reclassification.
 In my opinion, all this does is create more uncertainty in a market that we
@@ -129,7 +133,7 @@ the economic future of Adtran is more secure with these customers. This is
 a valid point, in my opinion, but I am still concerned that this legislation
 could ultimately hurt us, both as people who use the internet and as a network
 infrastructure company. There are other ways to build relationships, and from
-a Adtran-centric view, I don't know if these FCC comments were made in our
+an Adtran-centric view, I don't know if these FCC comments were made in our
 best interest. In some of my discussions, the idea of holding a town hall,
 if there was enough interest, to discuss this topic and where Adtran stands
 was proposed. I want to do a quick show of hands to see if there is enough
