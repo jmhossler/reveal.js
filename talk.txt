@@ -1,0 +1,62 @@
+At the end of a co-op's tenure at adtran, it is tradition for them to tell their story at adtran.
+This is my story, going over what I learned and what I accomplished during my time at Adtran.
+Hopefully, you all know my name. If you don't, then you're probably just here to skip work and
+don't care what my name is anyway. I have been co-oping at Adtran since the Summer of 2016and I
+started my journey in ENPQ.
+
+My Mentor was Salim Blume, my Manager was Susan Machnica, and I shared an office with TrevorMurphy.
+(insert meme). While on this team, I worked on the TAUT Libraries. At the time, this package was
+massive. Not only did it have python files thousands of lines long, it also had a large numer of
+files and a complex directory structure. One of our tasks was to rework these libraries to follow
+dry principles. A lot of these packages defined the same behavior in multiple places, and by
+applying DRY principles, we were able to cut down on that repetition. As you can see here, we
+separated the libraries out into platform definitions, command libraries, and communication
+libraries. In addition to some rework in structure, we also reworked the libraries to follow PEP8
+standards. This task ended up taking most my time because it went beyond what normal autopep8
+packages would do: class names and variable names needed their case fixed, as well as dictionary
+kes. There was also an issue with dictionary keys needing to be updated to follow naming standards.
+I was able to fix a lot of these issues by writing a script to do it, but because of low unit test
+coverage, it was difficult to be confident in these changes. We also added new platform
+definitions.
+
+I learned a lot my first term. I went from knowing basically nothing about Adtran to gaining some
+basic understanding of the products Adtran offered. This was also the first time I used Git in a
+professional setting (not just with friends in a class), so the management of branches and merging
+was mostly new to me. I also had never gone through any code review process before, so I learned
+how to use code collaborator and became less scared to have other developers critique my code.
+
+On my second term at Adtran, I was put on MVT. Don't ask me what MVT means right now, because I
+don't know, but I do know the meaning has changed over time. While I was on MVT, I had TWO mentors:
+Brandon Leatherwood for much of the spring term, and then Casey Small after that until he left
+Adtran. By that time, though, I was integrated into the team enough that a mentor wasn't necessary.
+My manager was Matt Moody, and I was lucky enough to spend the spring and summer with this team.
+While I was on this team, MVT owned the MOSAIC OS CI Product Test Pipeline. The goal of this was to
+automate acceptance level tests to ensure that new checkins didn't break components. Frequently,
+they did though, and part of our jobs was helping the developers debug the issue so the pipeline
+would be green again. We also added functionality so more test cases could be ran on our test beds,
+we helped test writers convert their robot tests so that they could utilize our tools and have
+their tests automated, and we built testbeds for these tests to be ran on. Ultimately, our goal was
+to ensure that the pipeline stayed green as much as possible, and add more tests so that the
+meaning of a green pipeline meant a more stable product.
+
+During my time with MVT, I had a lot of opportunities to learn about tools and styles of
+programming. I learned about python virtual environments, python packaging (including deploying to
+pypi, automated tests), how to use the Adtran Python Scaffold, unit testing principles (like what
+to test, how and what to mock, etc), and test driven development. At the beginning of my term, I
+asked my mentor, Brandon Leatherwood, if I could try to practice Test Driven Development on my
+task. After getting confirmation, I worked at it, I read about how to do it, and eventually I
+settled into a rythym. Since then, I've been using Test Driven Development any time I work on a
+package, and I think by being given that opportunity to practice Test Driven Development, I was
+made a better developer.
+
+My last term at adtran has been spent working on TARP, a DEVOPS team. My mentor is Robby Pocase,
+and my manager Rick King. This team was the first team I worked on where I worked in a
+collaborative team space, and I had a positive experience of always being so close to my team. I
+would definitely recommend being on at least one team in an open team space during co-op. Another
+interesting thing about this team is that I didn't do as much software development as I had on
+other teams. Instead, most of what I was doing was working with managing services, and while
+sometimes code was necessary, other times the job was more about doing something that a service
+allowed you to do in the first place. For the most part, I was helping manage Artifactory, Github,
+and Jenkins.
+
+
