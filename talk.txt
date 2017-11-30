@@ -1,10 +1,13 @@
-At the end of a co-op's tenure at adtran, it is tradition for them to tell their story at adtran.
-This is my story, going over what I learned and what I accomplished during my time at Adtran.
+As of today, not taking into account sick time or vacation time I have taken because I won't put THAT much work into a title, I have spent 290 days at Adtran.
+In this presentation, I am going over what I learned and what I accomplished during my 290 days.
 Hopefully, you all know my name. If you don't, then you're probably just here to skip work and
-don't care what my name is anyway. I have been co-oping at Adtran since the Summer of 2016and I
-started my journey in ENPQ.
+don't care what my name is anyway. I have been co-oping at Adtran since the Summer of 2016 and will be finishing up my co-op at the end of this Fall 2017 term.
+For my first term, I was in ENPQ. Then I moved on to MVT for my second term, and I am finishing off my co-op experience on the TARP team.
+Any questions?
 
-My Mentor was Salim Blume, my Manager was Susan Machnica, and I shared an office with TrevorMurphy.
+I guess I should give some more information about what I did, I'm not really prepared for that, though..
+
+To go into more detail, during my first term in ENPQ my Mentor was Salim, my Manager was Susan, and I shared an office with Trevor Murphy.
 (insert meme). While on this team, I worked on the TAUT Libraries. At the time, this package was
 massive. Not only did it have python files thousands of lines long, it also had a large numer of
 files and a complex directory structure. One of our tasks was to rework these libraries to follow
