@@ -24,8 +24,57 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section>
+          <h1>Pipestat V2</h1>
+          <p><small>by John Hossler</small></p>
+        </section>
+				<section>
+          <h2>Background</h2>
+          <p>CI Product Test Pipeline on Jenkins Open Source</p>
+          <ul>
+            <li class="fragment fade-up">Each test ran on individual job</li>
+            <li class="fragment fade-up">No good way to keep track of individual test cases</li>
+            <li class="fragment fade-up">Pipestat!</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Today's Problem</h2>
+          <p>CI Product Test Pipeline is on Cloud Bees Jenkins Enterprise</p>
+          <ul>
+            <li class="fragment fade-up">All tests are part of a stage of the entire build process!</li>
+            <li class="fragment fade-up">Pipestat can't gather the data anymore</li>
+            <li class="fragment fade-up">Other pipelines want some general statistics aggregated</li>
+          </ul>
+        </section>
+        <section>
+          <section>
+            <h2>Goals</h2>
+            <ul>
+              <li class="fragment fade-up">Gather last completed build status, last green build time, and last red build time</li>
+              <li class="fragment fade-up">Present this information in an easily accessible way</li>
+            </ul>
+          </section>
+          <section>
+            <h2>Completed</h2>
+            <ul>
+              <li class="fragment fade-up">Gather last completed build status, last green build time, and last red build time</li>
+              <li class="fragment fade-up"><s>Present this information in an easily accessible way</s></li>
+            </ul>
+            <img class="fragment fade-down" src='green_example.png'/>
+          </section>
+          <section>
+            <img class="fragment fade-down" src='red_example.png'/>
+            <img class="fragment fade-down" src='dreaded_error.png'/>
+          </section>
+          <section>
+            <h2>Next Steps</h2>
+            <img src='general_info.png'/>
+            <img src='build_info.png'/>
+          </section>
+        </section>
+        <section>
+          <h3>Questions?</h3>
+        </section>
 			</div>
 		</div>
 
